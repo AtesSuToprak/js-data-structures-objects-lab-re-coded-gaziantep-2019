@@ -1,6 +1,10 @@
 // Write your solution in this file!
 const driver = {};
-function 
+function updateDriverWithKeyAndValue(driver, key, value){
+  driver.name = 'Sam';
+  driver.address = '11 Broadway';
+  
+}
 
 /*describe('drivers', function () {
   it('defines a `driver` driver', function () {
